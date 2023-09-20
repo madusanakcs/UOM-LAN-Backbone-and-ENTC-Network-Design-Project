@@ -25,7 +25,7 @@ Our design approach considers long-term use (20-25 years) while optimizing total
 
 ## Network Diagrams
 
-![Network Diagram - ENTC bulding ](https://github.com/madusanakcs/Design-of-Local-Area-Network-backbone-network/blob/main/stage%201/Screenshot%202023-09-20%20012734.png)
+![Network Diagram - ENTC bulding ](https://github.com/madusanakcs/UOM-LAN-Backbone-and-ENTC-Network-Design-Project/blob/main/stage%202/Screenshot%202023-09-20%20012734.png)
 ![Network Diagram - Univercity of Moratuwa](https://github.com/madusanakcs/Design-of-Local-Area-Network-backbone-network/blob/main/stage%201/Screenshot%202023-09-20%20012814.png)
 
 -The network diagram depicts all connected buildings, their nodes, and bandwidth allocation for each link.
